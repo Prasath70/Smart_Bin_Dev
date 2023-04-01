@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1032517068228",
+    "firebase_url": "https://test-f8201-default-rtdb.firebaseio.com",
+    "project_id": "test-f8201",
+    "storage_bucket": "test-f8201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032517068228:android:1986a0a020e769fa2a3091",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032517068228-fsb5v60foafj894el2oqfl1mi17t77vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmR7vyAwAN_nbFQZwasseF6Q-7IHsYhyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032517068228-fsb5v60foafj894el2oqfl1mi17t77vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032517068228:android:5c15c4ed608ba50c2a3091",
+        "android_client_info": {
+          "package_name": "com.example.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032517068228-fsb5v60foafj894el2oqfl1mi17t77vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmR7vyAwAN_nbFQZwasseF6Q-7IHsYhyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032517068228-fsb5v60foafj894el2oqfl1mi17t77vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032517068228:android:09ed92f2bfa4e9522a3091",
+        "android_client_info": {
+          "package_name": "com.example.waste_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032517068228-fsb5v60foafj894el2oqfl1mi17t77vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmR7vyAwAN_nbFQZwasseF6Q-7IHsYhyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032517068228-fsb5v60foafj894el2oqfl1mi17t77vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
